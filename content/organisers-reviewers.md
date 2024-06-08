@@ -24,11 +24,11 @@ title: "Organisers"
     </div>
     <div class="person">
         <td><img src="/organizer_xiusi.jpeg"></td>
-        <td><a href="todo">Xiusi Li <br>(Mila and McGill University)</a></td>
+        <td>Xiusi Li <br>(Mila and McGill University)</a></td>
     </div>
     <div class="person">
         <td><img src="/organizer_sophie.jpeg"></td>
-        <td><a href="todo/">Sophie Xhonneux<br>(Mila and Université de Montréal)</a></td>
+        <td>Sophie Xhonneux<br>(Mila and Université de Montréal)</a></td>
     </div>
     <div class="person">
         <td><img src="/organizer_patrik.jpeg"></td>
