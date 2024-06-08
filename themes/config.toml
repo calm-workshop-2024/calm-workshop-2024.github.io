@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://imur-workshop-test.github.io/"
+baseurl = "https://calm-workshop-2024.github.io/"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
@@ -10,7 +10,7 @@ disableKinds = ["taxonomyTerm"]
   supertitle = "C♥️LM: First Workshop on"
   title = "Causality and Large Models"
   subtitle = "December @ NeurIPS 2024"
-  author = "Ching Lam Choi, Felix Leeb, Luigi Gresele, Josef Valvoda, Andrei Nicolicioiu, Xiusi Li, Patrik Reizinger, Sophie Xhonneux, Bernhard Schölkopf, Dhanya Sridhar"
+  author = "Felix Leeb, Ching Lam Choi, Luigi Gresele, Josef Valvoda, Andrei Nicolicioiu, Xiusi Li, Patrik Reizinger, Sophie Xhonneux, Haoxuan Li, Mengyue Yang, Bernhard Schölkopf, Dhanya Sridhar"
   description = "First Workshop on Causality and Large Models (C♥️LM) @ NeurIPS 2024"
   keywords = ["workshop", "causal representation learning", "large models"]
 
