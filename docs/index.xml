@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on </title>
-    <link>https://imur-workshop-test.github.io/</link>
+    <link>https://calm-workshop-2024.github.io/</link>
     <description>Recent content in Home on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://imur-workshop-test.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://calm-workshop-2024.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://imur-workshop-test.github.io/about/</link>
+      <link>https://calm-workshop-2024.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imur-workshop-test.github.io/about/</guid>
+      <guid>https://calm-workshop-2024.github.io/about/</guid>
       <description>About the workshop The remarkable capabilities and accessibility of recent large models, also known as “foundation models,” have sparked significant interest and excitement in the research community and beyond. In particular, large pre-trained generative models have demonstrated remarkable competencies in understanding and generating human-like text despite being trained on largely unstructured data using relatively simple self-supervised learning objectives. This raises the question: (A) Why do such large models work so well?</description>
     </item>
     
     <item>
       <title>Accepted Papers</title>
-      <link>https://imur-workshop-test.github.io/accepted-papers/</link>
+      <link>https://calm-workshop-2024.github.io/accepted-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imur-workshop-test.github.io/accepted-papers/</guid>
+      <guid>https://calm-workshop-2024.github.io/accepted-papers/</guid>
       <description>Accepted Papers </description>
     </item>
     
     <item>
       <title>Call for Papers</title>
-      <link>https://imur-workshop-test.github.io/call-for-papers/</link>
+      <link>https://calm-workshop-2024.github.io/call-for-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imur-workshop-test.github.io/call-for-papers/</guid>
+      <guid>https://calm-workshop-2024.github.io/call-for-papers/</guid>
       <description>Call for Papers By engaging both theoretical and applied perspectives, we aim to foster deep insights into the behavior of large models, not only to assess their current capabilities but also to improve their performance and to make their behavior more interpretable and reliable. In addition to the directions discussed above, we welcome contributions that explore the vibrant interface between causality and large models, for example:
 Theoretical and empirical studies on how large models employ causal knowledge and reasoning</description>
     </item>
     
     <item>
       <title>Formatting Instructions</title>
-      <link>https://imur-workshop-test.github.io/formatting-instructions/</link>
+      <link>https://calm-workshop-2024.github.io/formatting-instructions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imur-workshop-test.github.io/formatting-instructions/</guid>
+      <guid>https://calm-workshop-2024.github.io/formatting-instructions/</guid>
       <description>Formatting Instructions </description>
     </item>
     
     <item>
       <title>Important Dates</title>
-      <link>https://imur-workshop-test.github.io/dates/</link>
+      <link>https://calm-workshop-2024.github.io/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imur-workshop-test.github.io/dates/</guid>
+      <guid>https://calm-workshop-2024.github.io/dates/</guid>
       <description>Important Dates Paper submission deadline: TBA Notification to authors: TBA Camera-ready version: TBA Workshop Date: TBA </description>
     </item>
     
     <item>
       <title>Invited Speakers</title>
-      <link>https://imur-workshop-test.github.io/invited-speakers/</link>
+      <link>https://calm-workshop-2024.github.io/invited-speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imur-workshop-test.github.io/invited-speakers/</guid>
+      <guid>https://calm-workshop-2024.github.io/invited-speakers/</guid>
       <description>Invited Speakers Matej Zečević (TU Darmstadt) Jane X. Wang
 (DeepMind) Claudia Shi
 (Columbia University) Victor Veitch
@@ -74,10 +74,10 @@ Theoretical and empirical studies on how large models employ causal knowledge an
     
     <item>
       <title>Organisers</title>
-      <link>https://imur-workshop-test.github.io/organisers-reviewers/</link>
+      <link>https://calm-workshop-2024.github.io/organisers-reviewers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imur-workshop-test.github.io/organisers-reviewers/</guid>
+      <guid>https://calm-workshop-2024.github.io/organisers-reviewers/</guid>
       <description>Organisers Felix Leeb (Max Planck Institute for Intelligent Systems) Ching Lam Choi
 (MIT EECS) Luigi Gresele
 (University of Copenhagen) Andrei Nicolicioiu (Mila and Université de Montréal,) Xiusi Li (Mila and McGill University) Sophie Xhonneux
@@ -88,28 +88,28 @@ Theoretical and empirical studies on how large models employ causal knowledge an
     
     <item>
       <title>Reviewers</title>
-      <link>https://imur-workshop-test.github.io/reviewers/</link>
+      <link>https://calm-workshop-2024.github.io/reviewers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imur-workshop-test.github.io/reviewers/</guid>
+      <guid>https://calm-workshop-2024.github.io/reviewers/</guid>
       <description>Reviewers From an initial, limited call of action, we have a list of 34 confirmed reviewers.</description>
     </item>
     
     <item>
       <title>Schedule and Format</title>
-      <link>https://imur-workshop-test.github.io/schedule-format/</link>
+      <link>https://calm-workshop-2024.github.io/schedule-format/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imur-workshop-test.github.io/schedule-format/</guid>
+      <guid>https://calm-workshop-2024.github.io/schedule-format/</guid>
       <description>Workshop Schedule </description>
     </item>
     
     <item>
       <title>Slides and Recording</title>
-      <link>https://imur-workshop-test.github.io/slides-recording/</link>
+      <link>https://calm-workshop-2024.github.io/slides-recording/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imur-workshop-test.github.io/slides-recording/</guid>
+      <guid>https://calm-workshop-2024.github.io/slides-recording/</guid>
       <description>Slides </description>
     </item>
     
