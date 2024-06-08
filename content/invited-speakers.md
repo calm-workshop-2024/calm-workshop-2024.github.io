@@ -53,7 +53,7 @@ title: "Invited Speakers"
     </div>
         <div class="person">
         <td><img src="/panellist5_chelsea.jpeg"></td>
-        <td><a href="https://maria-antoniak.github.io/">Chelsea Finn<br>(Stanford)</a></td>
+        <td><a href="https://ai.stanford.edu/~cbfinn/">Chelsea Finn<br>(Stanford)</a></td>
     </div>
     <div class="person">
         <td><img src="/panellist6_zhijing.png"></td>

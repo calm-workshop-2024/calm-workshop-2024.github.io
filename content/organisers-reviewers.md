@@ -46,7 +46,16 @@ title: "Organisers"
         <td><img src="/organizer_mengyue.webp"></td>
         <td><a href="https://ymy4323460.github.io/">Mengyue Yang <br>(University of College London)</a></td>
     </div>
+    <div class="person">
+        <td><img src="/organizer_dhanya.webp"></td>
+        <td><a href="https://www.dsridhar.com/">Dhanya Sridhar<br>(Université de Montréal & Mila)</a></td>
+    </div>
+    <div class="person">
+        <td><img src="/bernhard.jpg"></td>
+        <td><a href="https://is.mpg.de/~bs">Bernhard Schölkopf <br>(Max Planck Institute for Intelligent Systems & ELLIS Institute Tübingen)</a></td>
+    </div>
 </div>
+
 # Reviewers
 
 From an initial, limited call of action, we have a list of 34 confirmed reviewers. 
