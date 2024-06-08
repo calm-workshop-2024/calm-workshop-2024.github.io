@@ -4,6 +4,16 @@ title: "Call for Papers"
 
 # Call for Papers
 
+With the striking potential of causality and the enormous interest in tackling the many open questions about understanding and improving large models on the other, we propose a workshop that aims to explore the many exciting synergies between causality and large models. Specifically, we identify four main directions to cover in our workshop:
+
+* Causality in large models: Assessing the causal knowledge captured by large models and their (causal) reasoning abilities.
+
+* Causality for large models: Applying ideas from causality to augment and improve large models.
+
+* Causality with large models: Leveraging large models to improve causal inference and discovery.
+
+* Causality of large models: Investigating the causal structure of how large models work and how to make them more interpretable and controllable.
+
 By engaging both theoretical and applied perspectives, we aim to foster deep insights into the behavior of large models, not only to assess their current capabilities but also to improve their performance and to make their behavior more interpretable and reliable. In addition to the directions discussed above, we welcome contributions that explore the vibrant interface between causality and large models, for example:
 
 * Theoretical and empirical studies on how large models employ causal knowledge and reasoning
