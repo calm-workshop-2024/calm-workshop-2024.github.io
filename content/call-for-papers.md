@@ -4,6 +4,16 @@ title: "Call for Papers"
 
 # Call for Papers
 
+By engaging both theoretical and applied perspectives, we aim to foster deep insights into the behavior of large models, not only to assess their current capabilities but also to improve their performance and to make their behavior more interpretable and reliable. In addition to the directions discussed above, we welcome contributions that explore the vibrant interface between causality and large models, for example:
+
+* Theoretical and empirical studies on how large models employ causal knowledge and reasoning
+
+* Combined applications of large models and causal methods to real-world problems for improved performance and interpretability
+
+* Connections between multiple modalities (such as images, text, and audio) and (causal) reasoning abilities of large models
+
+* Applications of causal inference methods to understand or improve large models
+
 <!-- We welcome submissions related to any aspects of CRL, including but not limited to:
 
 * Learning latent (structural) causal models & structured (deep) generative models
