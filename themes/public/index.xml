@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>https://imur-workshop-test.github.io/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://imur-workshop-test.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://imur-workshop-test.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imur-workshop-test.github.io/about/</guid>
+      <description>About the workshop </description>
+    </item>
+    
+    <item>
+      <title>Accepted Papers</title>
+      <link>https://imur-workshop-test.github.io/accepted-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imur-workshop-test.github.io/accepted-papers/</guid>
+      <description>Accepted Papers </description>
+    </item>
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>https://imur-workshop-test.github.io/call-for-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imur-workshop-test.github.io/call-for-papers/</guid>
+      <description>Call for Papers </description>
+    </item>
+    
+    <item>
+      <title>Formatting Instructions</title>
+      <link>https://imur-workshop-test.github.io/formatting-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imur-workshop-test.github.io/formatting-instructions/</guid>
+      <description>Formatting Instructions </description>
+    </item>
+    
+    <item>
+      <title>Important Dates</title>
+      <link>https://imur-workshop-test.github.io/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imur-workshop-test.github.io/dates/</guid>
+      <description>Important Dates Paper submission deadline: June 6, 2022, 23:59 AoE Notification to authors: July 5, 2022, 23:59 AoE Camera-ready version: August 17, 2022, 23:59 AoE Workshop Date: August 5, 2022 </description>
+    </item>
+    
+    <item>
+      <title>Invited Speakers</title>
+      <link>https://imur-workshop-test.github.io/invited-speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imur-workshop-test.github.io/invited-speakers/</guid>
+      <description>Invited Speakers Matej Zečević (TU Darmstadt) Jane X. Wang
+(DeepMind) Claudia Shi
+(Columbia University) Victor Veitch
+(University of Chicago &amp; Google DeepMind) Amit Sharma
+(Microsoft Research) Elias Bareinboim
+(Columbia University) Panellists Maria Antoniak
+(Allen Institute for AI) Giambattista Parascandolo
+(OpenAI) Atticus Geiger
+(Pr(Ai)²R Group) Charlotte Bunne
+(EPFL) Chelsea Finn
+(Stanford) Zhijing Jin
+(Max Planck Institute &amp; ETH) </description>
+    </item>
+    
+    <item>
+      <title>Organisers</title>
+      <link>https://imur-workshop-test.github.io/organisers-reviewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imur-workshop-test.github.io/organisers-reviewers/</guid>
+      <description>Organisers Felix Leeb (Max Planck Institute for Intelligent Systems) Ching Lam Choi
+(MIT EECS) Luigi Gresele
+(University of Copenhagen) Andrei Nicolicioiu (Mila and Université de Montréal,) Xiusi Li (Mila and McGill University) Sophie Xhonneux
+(Mila and Université de Montréal) Patrik Reizinger
+(Max Planck Institute for Intelligent Systems) Josef Valvoda (University of Copenhagen) # Reviewers Contact For any questions or comments, please contact us at calmworkshop2024@gmail.com
+Thanks also to Timothy Gebhard for creating the template for the workshop website!</description>
+    </item>
+    
+    <item>
+      <title>Reviewers</title>
+      <link>https://imur-workshop-test.github.io/reviewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imur-workshop-test.github.io/reviewers/</guid>
+      <description>Reviewers </description>
+    </item>
+    
+    <item>
+      <title>Schedule and Format</title>
+      <link>https://imur-workshop-test.github.io/schedule-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imur-workshop-test.github.io/schedule-format/</guid>
+      <description>Workshop Schedule </description>
+    </item>
+    
+    <item>
+      <title>Slides and Recording</title>
+      <link>https://imur-workshop-test.github.io/slides-recording/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imur-workshop-test.github.io/slides-recording/</guid>
+      <description>Slides </description>
+    </item>
+    
+  </channel>
+</rss>

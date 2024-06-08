@@ -1,0 +1,58 @@
+# Global options
+baseurl = "https://imur-workshop-test.github.io/"
+canonifyurls = true
+languagecode = "en"
+theme = "crl-uai-2022-theme"
+disableKinds = ["taxonomyTerm"]
+
+# Params that are used in <head>
+[params]
+  supertitle = "C♥️LM: First Workshop on"
+  title = "Causality and Large Models"
+  subtitle = "December @ NeurIPS 2024"
+  author = "Ching Lam Choi, Felix Leeb, Luigi Gresele, Josef Valvoda, Andrei Nicolicioiu, Xiusi Li, Patrik Reizinger, Sophie Xhonneux, Bernhard Schölkopf, Dhanya Sridhar"
+  description = "First Workshop on Causality and Large Models (C♥️LM) @ NeurIPS 2024"
+  keywords = ["workshop", "causal representation learning", "large models"]
+
+# Options for Markdown renderer
+[markup.goldmark.renderer]
+  unsafe = true
+  xHTML = true
+
+# Main menu
+[[menu.main]]
+    name = "Call for Papers"
+    url  = "/call-for-papers"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+    weight = 2
+[[menu.main]]
+    name = "Dates"
+    url  = "/dates"
+    weight = 3
+[[menu.main]]
+    name = "Formatting Instructions"
+    url  = "/formatting-instructions"
+    weight = 4
+[[menu.main]]
+    name = "Organisers and Reviewers"
+    url  = "/organisers-reviewers"
+    weight = 5
+[[menu.main]]
+    name = "Accepted Papers"
+    url  = "/accepted-papers"
+    weight = 6
+[[menu.main]]
+    name = "Schedule and Format"
+    url  = "/schedule-format"
+    weight = 7
+[[menu.main]]
+    name = "Invited Speakers"
+    url  = "/invited-speakers"
+    weight = 8
+[[menu.main]]
+    name = "Slides and Recording"
+    url  = "/slides-recording"
+    weight = 9
