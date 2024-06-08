@@ -49,6 +49,8 @@ title: "Organisers"
 </div>
 # Reviewers
 
+From an initial, limited call of action, we have a list of 34 confirmed reviewers. 
+
 <!-- Adam Li, Columbia University
 
 Alexander Hägele, ETHZ - ETH Zurich
