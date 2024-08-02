@@ -4,7 +4,7 @@ title: "Call for Papers"
 
 # Call for Papers
 
-With the striking potential of causality and the enormous interest in tackling the many open questions about understanding and improving large models on the other, we propose a workshop that aims to explore the many exciting synergies between causality and large models. Specifically, we identify four main directions to cover in our workshop:
+Our workshop aims to explore the many exciting synergies between causality and large models. We identify four main directions to cover in our workshop:
 
 * Causality in large models: Assessing the causal knowledge captured by large models and their (causal) reasoning abilities.
 
@@ -14,7 +14,7 @@ With the striking potential of causality and the enormous interest in tackling t
 
 * Causality of large models: Investigating the causal structure of how large models work and how to make them more interpretable and controllable.
 
-By engaging both theoretical and applied perspectives, we aim to foster deep insights into the behavior of large models, not only to assess their current capabilities but also to improve their performance and to make their behavior more interpretable and reliable. In addition to the directions discussed above, we welcome contributions that explore the vibrant interface between causality and large models, for example:
+In addition to the directions discussed above, we welcome contributions that explore the vibrant interface between causality and large models, for example:
 
 * Theoretical and empirical studies on how large models employ causal knowledge and reasoning
 
@@ -24,6 +24,17 @@ By engaging both theoretical and applied perspectives, we aim to foster deep ins
 
 * Applications of causal inference methods to understand or improve large models
 
+Submissions should present novel, unpublished work. Work that previously appeared in non-archival venues (such as arXiv or other workshops without proceedings) is allowed. All submitting authors are required to have an OpenReview profile: please ensure that these are up-to-date before submitting. 
+
+For authors who do not already have an OpenReview profile, please be aware of OpenReview's moderation policy for newly created profiles:
+* New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
+* New profiles created with an institutional email will be activated automatically.
+
+Our anonymity policy is double-blind.
+
+The C♥️LM workshop is non-archival, and should thus generally not violate dual submission policies at other archival venues (e.g., submitting work that is currently under review at another conference is permitted); if unsure, please check yourself with the corresponding venue.
+
+Please find more information and a list of selected references at https://calm-workshop-2024.github.io/about/
 <!-- We welcome submissions related to any aspects of CRL, including but not limited to:
 
 * Learning latent (structural) causal models & structured (deep) generative models
