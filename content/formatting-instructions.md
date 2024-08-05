@@ -6,7 +6,7 @@ title: "Formatting Instructions"
 
 ## Style & Author Instructions
 
-Submissions should be formatted using the NeurIPS 2024 latex style (https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip). Papers should be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account.
+Submissions should be formatted using the NeurIPS 2024 latex style ( https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip ). Papers should be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account.
 
 The workshop will not have proceedings (it will not be archival), which means you can submit the same or extended work as a publication to other venues after the workshop.
 

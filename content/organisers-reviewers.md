@@ -58,7 +58,7 @@ title: "Organisers"
 
 # Reviewers
 
-From an initial, limited call of action, we have a list of 34 confirmed reviewers. 
+<!-- From an initial, limited call of action, we have a list of 34 confirmed reviewers.  -->
 
 <!-- Adam Li, Columbia University
 
