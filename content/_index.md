@@ -33,6 +33,6 @@ With the striking potential of causality and the enormous interest in tackling t
 * **Paper submission deadline: September 06, 2024, AoE**
 * **Notification to authors: October 09, 2024, AoE**
 * **Camera-ready version: TBA**
-* **Workshop Date: December 14, 2024 - TBD, AoE**
+* **Workshop Date: December 14 or 15, 2024 - TBD, AoE**
 
 Contact us at <calmworkshop2024@gmail.com>
