@@ -1,6 +1,7 @@
-# test
+# Calm workshop - website
 Prerequisites:
  - hugo
+
 Instructions:
  - make changes in the appropiate files
  - hugo server to preview the changes locally
