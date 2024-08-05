@@ -35,6 +35,11 @@ Our anonymity policy is double-blind.
 The C♥️LM workshop is non-archival, and should thus generally not violate dual submission policies at other archival venues (e.g., submitting work that is currently under review at another conference is permitted); if unsure, please check yourself with the corresponding venue.
 
 Please find more information and a list of selected references at https://calm-workshop-2024.github.io/about/
+
+## Submission Link
+
+https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/CALM
+
 <!-- We welcome submissions related to any aspects of CRL, including but not limited to:
 
 * Learning latent (structural) causal models & structured (deep) generative models
