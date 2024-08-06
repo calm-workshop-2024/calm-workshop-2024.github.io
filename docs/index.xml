@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on </title>
-    <link>public/</link>
+    <link>https://calm-workshop-2024.github.io/</link>
     <description>Recent content in Home on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="public/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://calm-workshop-2024.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>public/about/</link>
+      <link>https://calm-workshop-2024.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>public/about/</guid>
+      <guid>https://calm-workshop-2024.github.io/about/</guid>
       <description>About the workshop The remarkable capabilities and accessibility of recent large models, also known as “foundation models,” have sparked significant interest and excitement in the research community and beyond. In particular, large pre-trained generative models have demonstrated remarkable competencies in understanding and generating human-like text despite being trained on largely unstructured data using relatively simple self-supervised learning objectives. This raises the question: (A) Why do such large models work so well?</description>
     </item>
     <item>
       <title>Accepted Papers</title>
-      <link>public/accepted-papers/</link>
+      <link>https://calm-workshop-2024.github.io/accepted-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>public/accepted-papers/</guid>
+      <guid>https://calm-workshop-2024.github.io/accepted-papers/</guid>
       <description>Accepted Papers Coming soon</description>
     </item>
     <item>
       <title>Call for Papers</title>
-      <link>public/call-for-papers/</link>
+      <link>https://calm-workshop-2024.github.io/call-for-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>public/call-for-papers/</guid>
+      <guid>https://calm-workshop-2024.github.io/call-for-papers/</guid>
       <description>Call for Papers Submissions on OpenReview Our workshop aims to explore the many exciting synergies between causality and large models. We identify four main directions to cover in our workshop:&#xA;Causality for large models: Applying ideas from causality to improve large models.&#xA;Causality with large models: Leveraging large models to improve causal inference.&#xA;Causality in large models: Assessing the causal knowledge captured by large models and their (causal) reasoning abilities.</description>
     </item>
     <item>
       <title>Formatting Instructions</title>
-      <link>public/formatting-instructions/</link>
+      <link>https://calm-workshop-2024.github.io/formatting-instructions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>public/formatting-instructions/</guid>
+      <guid>https://calm-workshop-2024.github.io/formatting-instructions/</guid>
       <description>Formatting Instructions Style &amp;amp; Author Instructions Submissions should be formatted using our latex style files (available here). Papers should be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account.&#xA;The workshop will not have proceedings (it will not be archival), which means you can submit the same or extended work as a publication to other venues after the workshop.</description>
     </item>
     <item>
       <title>Important Dates</title>
-      <link>public/dates/</link>
+      <link>https://calm-workshop-2024.github.io/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>public/dates/</guid>
+      <guid>https://calm-workshop-2024.github.io/dates/</guid>
       <description>Important Dates Paper submission deadline: September 06, 2024, AoE Notification to authors: October 09, 2024, AoE Camera-ready version: TBA Workshop Date: December 14 or 15, 2024 - TBD, AoE </description>
     </item>
     <item>
       <title>Invited Speakers</title>
-      <link>public/invited-speakers/</link>
+      <link>https://calm-workshop-2024.github.io/invited-speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>public/invited-speakers/</guid>
+      <guid>https://calm-workshop-2024.github.io/invited-speakers/</guid>
       <description>Invited Speakers Matej Zečević (TU Darmstadt)&#xD;Jane X. Wang&#xA;(DeepMind)&#xD;Claudia Shi&#xA;(Columbia University)&#xD;Victor Veitch&#xA;(University of Chicago &amp; Google DeepMind)&#xD;Amit Sharma&#xA;(Microsoft Research)&#xD;Elias Bareinboim&#xA;(Columbia University)&#xD;Panellists Maria Antoniak&#xA;(Allen Institute for AI)&#xD;Giambattista Parascandolo&#xA;(OpenAI)&#xD;Atticus Geiger&#xA;(Pr(Ai)²R Group)&#xD;Charlotte Bunne&#xA;(EPFL)&#xD;Chelsea Finn&#xA;(Stanford)&#xD;Zhijing Jin&#xA;(Max Planck Institute &amp; ETH)&#xD;</description>
     </item>
     <item>
       <title>Organisers</title>
-      <link>public/team/</link>
+      <link>https://calm-workshop-2024.github.io/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>public/team/</guid>
+      <guid>https://calm-workshop-2024.github.io/team/</guid>
       <description>Organisers Felix Leeb (Max Planck Institute for Intelligent Systems)&#xD;Ching Lam Choi&#xA;(MIT EECS)&#xD;Luigi Gresele&#xA;(University of Copenhagen)&#xD;Andrei Nicolicioiu (Mila and Université de Montréal,)&#xD;Xiusi Li (Mila and McGill University)&#xD;Sophie Xhonneux&#xA;(Mila and Université de Montréal)&#xD;Patrik Reizinger&#xA;(Max Planck Institute for Intelligent Systems)&#xD;Josef Valvoda (University of Copenhagen)&#xD;Haoxuan Li&#xA;(Peking University)&#xD;Mengyue Yang (University of College London)&#xD;Dhanya Sridhar&#xA;(Université de Montréal &amp; Mila)&#xD;Bernhard Schölkopf (Max Planck Institute for Intelligent Systems &amp; ELLIS Institute Tübingen)&#xD;Reviewers We have recruited a diverse group of great reviewers to help us evaluate the submissions to the workshop.</description>
     </item>
     <item>
       <title>Reviewers</title>
-      <link>public/reviewers/</link>
+      <link>https://calm-workshop-2024.github.io/reviewers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>public/reviewers/</guid>
+      <guid>https://calm-workshop-2024.github.io/reviewers/</guid>
       <description>Reviewers From an initial, limited call of action, we have a list of 34 confirmed reviewers.</description>
     </item>
     <item>
       <title>Schedule and Format</title>
-      <link>public/schedule/</link>
+      <link>https://calm-workshop-2024.github.io/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>public/schedule/</guid>
+      <guid>https://calm-workshop-2024.github.io/schedule/</guid>
       <description>Workshop Schedule &amp;amp; Format A detailed schedule will be posted here closer to the workshop date.&#xA;Our workshop will feature a mix of invited talks, a poster session, a panel discussion, and interactive elements to engage the audience and foster discussion. Consequently, we do not expect to need any special equipment.&#xA;We plan to hold a series of six invited talks given by both up-and-coming as well as distinguished researchers with experience in the intersection of causality and large models, as well as a panel discussion for deeper dialogue on the workshop&amp;rsquo;s main themes.</description>
     </item>
     <item>
       <title>Slides and Recording</title>
-      <link>public/slides-recording/</link>
+      <link>https://calm-workshop-2024.github.io/slides-recording/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>public/slides-recording/</guid>
+      <guid>https://calm-workshop-2024.github.io/slides-recording/</guid>
       <description>Slides </description>
     </item>
   </channel>
