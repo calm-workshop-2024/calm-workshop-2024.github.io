@@ -3,7 +3,20 @@ title: "Schedule and Format"
 ---
 
 
-# Workshop Schedule
+# Workshop Schedule & Format
+
+> A detailed schedule will be posted here closer to the workshop date.
+
+Our workshop will feature a mix of invited talks, a poster session, a panel discussion, and interactive elements to engage the audience and foster discussion. Consequently, we do not expect to need any special equipment.
+
+We plan to hold a series of six invited talks given by both up-and-coming as well as distinguished researchers with experience in the intersection of causality and large models, as well as a panel discussion for deeper dialogue on the workshop's main themes. Overall, we estimate that our workshop will run for a full day (approximately 8-9 hours), with a preparatory rough breakdown as follows:
+
+- 30 min: Opening and closing remarks
+- 6 x 30 min: Invited talks
+- 60 min: Panel discussion
+- Up to 60 min: Contributed talks
+- 60-120 min: Poster session
+
 
 <!-- <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:

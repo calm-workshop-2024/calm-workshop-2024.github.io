@@ -6,13 +6,11 @@ title: "Formatting Instructions"
 
 ## Style & Author Instructions
 
-Submissions should be formatted using the NeurIPS 2024 latex style ( https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip ). Papers should be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account.
+Submissions should be formatted using our latex style files (available [here](https://github.com/calm-workshop-2024/calm-workshop-2024.github.io/raw/main/style_files/neurips_2024_calm.zip)). Papers should be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account.
 
 The workshop will not have proceedings (it will not be archival), which means you can submit the same or extended work as a publication to other venues after the workshop.
 
-## Submission Link
-
-https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/CALM
+## [Submit on OpenReview (click here)](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/CALM)
 
 
 

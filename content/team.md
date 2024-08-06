@@ -58,6 +58,10 @@ title: "Organisers"
 
 # Reviewers
 
+We have recruited a diverse group of great reviewers to help us evaluate the submissions to the workshop. We are grateful for their time and expertise.
+
+> Credits coming soon!
+
 <!-- From an initial, limited call of action, we have a list of 34 confirmed reviewers.  -->
 
 <!-- Adam Li, Columbia University

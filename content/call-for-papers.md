@@ -4,15 +4,17 @@ title: "Call for Papers"
 
 # Call for Papers
 
+## [Submissions on OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/CALM)
+
 Our workshop aims to explore the many exciting synergies between causality and large models. We identify four main directions to cover in our workshop:
 
-* Causality in large models: Assessing the causal knowledge captured by large models and their (causal) reasoning abilities.
+* Causality *for* large models: Applying ideas from causality to improve large models.
 
-* Causality for large models: Applying ideas from causality to augment and improve large models.
+* Causality *with* large models: Leveraging large models to improve causal inference.
 
-* Causality with large models: Leveraging large models to improve causal inference and discovery.
+* Causality *in* large models: Assessing the causal knowledge captured by large models and their (causal) reasoning abilities.
 
-* Causality of large models: Investigating the causal structure of how large models work and how to make them more interpretable and controllable.
+* Causality *of* large models: Investigating the causal structure of how large models work and how to make them more interpretable and controllable.
 
 In addition to the directions discussed above, we welcome contributions that explore the vibrant interface between causality and large models, for example:
 
@@ -34,11 +36,23 @@ Our anonymity policy is double-blind.
 
 The C♥️LM workshop is non-archival, and should thus generally not violate dual submission policies at other archival venues (e.g., submitting work that is currently under review at another conference is permitted); if unsure, please check yourself with the corresponding venue.
 
-Please find more information and a list of selected references at https://calm-workshop-2024.github.io/about/
+Please find more information and a list of selected references [here](https://calm-workshop-2024.github.io/about/)
 
-## Submission Link
+## Style & Author Instructions
 
-https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/CALM
+Submissions should be formatted using our latex style files (available [here](https://github.com/calm-workshop-2024/calm-workshop-2024.github.io/raw/main/style_files/neurips_2024_calm.zip)). Papers should be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account.
+
+The workshop will not have proceedings (it will not be archival), which means you can submit the same or extended work as a publication to other venues after the workshop.
+
+## Important Dates
+
+* **Paper submission deadline: September 06, 2024, AoE**
+* **Notification to authors: October 09, 2024, AoE**
+* **Camera-ready version: TBA**
+* **Workshop Date: December 14 or 15, 2024 - TBD, AoE**
+
+
+## [Submissions on OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/CALM)
 
 <!-- We welcome submissions related to any aspects of CRL, including but not limited to:
 
