@@ -24,7 +24,7 @@ title: "Organisers"
     </div>
     <div class="person">
         <td><img src="/organizer_xiusi.jpeg"></td>
-        <td>Xiusi Li <br>(Mila and McGill University)</a></td>
+        <td><a href="https://lixiusi.github.io/">Xiusi Li<br>(Mila and McGill University)</a></td>
     </div>
     <div class="person">
         <td><img src="/organizer_sophie.jpeg"></td>
