@@ -6,8 +6,8 @@ title: "Invited Speakers"
 
 <div class="list-of-people">
     <div class="person">
-        <td><img src="/speaker1_matej.png"></td>
-        <td><a href="https://www.matej-zecevic.de">Matej Zečević <br>(TU Darmstadt)</a></td>
+        <td><img src="/speaker1_tobias.jpg"></td>
+        <td><a href="https://cicl.stanford.edu/member/tobias_gerstenberg/">Tobias Gerstenberg <br>(Stanford University)</a></td>
     </div>
     <div class="person">
         <td><img src="/speaker2_jane.jpeg"></td>
@@ -53,7 +53,7 @@ title: "Invited Speakers"
     </div>
         <div class="person">
         <td><img src="/panellist5_chelsea.jpeg"></td>
-        <td><a href="https://ai.stanford.edu/~cbfinn/">Chelsea Finn<br>(Stanford)</a></td>
+        <td><a href="https://ai.stanford.edu/~cbfinn/">Chelsea Finn<br>(Stanford University)</a></td>
     </div>
     <div class="person">
         <td><img src="/panellist6_zhijing.png"></td>
