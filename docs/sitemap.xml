@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://calm-workshop-2024.github.io/about/</loc>
+    <loc>public/about/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/accepted-papers/</loc>
+    <loc>public/accepted-papers/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/call-for-papers/</loc>
+    <loc>public/call-for-papers/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/formatting-instructions/</loc>
+    <loc>public/formatting-instructions/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/</loc>
+    <loc>public/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/dates/</loc>
+    <loc>public/dates/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/invited-speakers/</loc>
+    <loc>public/invited-speakers/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/organisers-reviewers/</loc>
+    <loc>public/team/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/reviewers/</loc>
+    <loc>public/reviewers/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/schedule-format/</loc>
+    <loc>public/schedule/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/slides-recording/</loc>
+    <loc>public/slides-recording/</loc>
   </url>
 </urlset>
