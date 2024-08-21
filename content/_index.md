@@ -28,6 +28,8 @@ With the striking potential of causality and the enormous interest in tackling t
 
 * Causality of large models: Investigating the causal structure of how large models work and how to make them more interpretable and controllable.
 
+We would like to acknowledge that a related workshop, [Are Large Language Models Simply Causal Parrots?](https://llmcp.cause-lab.net/llmcp), held at AAAI 2024, shared some of our objectives.
+
 ## Important Dates
 
 * **Paper submission deadline: September 06, 2024, AoE**
