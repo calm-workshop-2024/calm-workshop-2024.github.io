@@ -20,14 +20,17 @@ disableKinds = ["taxonomyTerm"]
   xHTML = true
 
 # Main menu
-[[menu.main]]
-    name = "Call for Papers"
-    url  = "/call-for-papers"
-    weight = 1
+
 [[menu.main]]
     name = "About"
     url  = "/about"
+    weight = 1
+
+[[menu.main]]
+    name = "Call for Papers & Reviewers"
+    url  = "/call-for-papers"
     weight = 2
+
 [[menu.main]]
     name = "Dates"
     url  = "/dates"
