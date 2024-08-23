@@ -1,10 +1,10 @@
 ---
-title: "Call for Papers & Reviewers"
+title: "Call for Papers"
 ---
 
-# Call for Papers & Reviewers
+# Call for Papers
 
-## [Submit](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/CALM) your paper or [sign up](https://forms.gle/rby9yB8ufWBPXxJC9) to be a reviewer!
+## Submit your paper on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/CALM)
 
 Our workshop aims to explore the many exciting synergies between causality and large models. We identify four main directions to cover in our workshop:
 

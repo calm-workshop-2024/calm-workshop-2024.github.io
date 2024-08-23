@@ -22,11 +22,18 @@
       <description>Accepted Papers Coming soon</description>
     </item>
     <item>
-      <title>Call for Papers &amp; Reviewers</title>
+      <title>Call for Papers</title>
       <link>https://calm-workshop-2024.github.io/call-for-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://calm-workshop-2024.github.io/call-for-papers/</guid>
-      <description>Call for Papers &amp;amp; Reviewers Submit your paper or sign up to be a reviewer! Our workshop aims to explore the many exciting synergies between causality and large models. We identify four main directions to cover in our workshop:&#xA;Causality for large models: Applying ideas from causality to improve large models.&#xA;Causality with large models: Leveraging large models to improve causal inference.&#xA;Causality in large models: Assessing the causal knowledge captured by large models and their (causal) reasoning abilities.</description>
+      <description>Call for Papers Submit your paper on OpenReview Our workshop aims to explore the many exciting synergies between causality and large models. We identify four main directions to cover in our workshop:&#xA;Causality for large models: Applying ideas from causality to improve large models.&#xA;Causality with large models: Leveraging large models to improve causal inference.&#xA;Causality in large models: Assessing the causal knowledge captured by large models and their (causal) reasoning abilities.</description>
+    </item>
+    <item>
+      <title>Call for Reviewers</title>
+      <link>https://calm-workshop-2024.github.io/call-for-reviewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://calm-workshop-2024.github.io/call-for-reviewers/</guid>
+      <description>Call for Reviewers Sign up to be a reviewer here We plan to have 2 papers per reviewer (with a maximum of 3 papers), each paper being 4-6 pages. Expected reviewing period: late September. We will come back with an Openreview reviewer invitation so please fill the form above with an email associated with your Openreview account.</description>
     </item>
     <item>
       <title>Formatting Instructions</title>
@@ -55,13 +62,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://calm-workshop-2024.github.io/team/</guid>
       <description>Organisers Felix Leeb (Max Planck Institute for Intelligent Systems) Ching Lam Choi&#xA;(MIT EECS) Luigi Gresele&#xA;(University of Copenhagen) Andrei Nicolicioiu (Mila and Université de Montréal) Xiusi Li&#xA;(Mila and McGill University) Sophie Xhonneux (Mila and Université de Montréal) Patrik Reizinger&#xA;(Max Planck Institute for Intelligent Systems) Josef Valvoda (University of Copenhagen) Haoxuan Li&#xA;(Peking University) Mengyue Yang (University of College London) Dhanya Sridhar&#xA;(Université de Montréal &amp; Mila) Bernhard Schölkopf (Max Planck Institute for Intelligent Systems &amp; ELLIS Institute Tübingen) Reviewers We have recruited a diverse group of great reviewers to help us evaluate the submissions to the workshop.</description>
-    </item>
-    <item>
-      <title>Reviewers</title>
-      <link>https://calm-workshop-2024.github.io/reviewers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://calm-workshop-2024.github.io/reviewers/</guid>
-      <description>Reviewers From an initial, limited call of action, we have a list of 34 confirmed reviewers.</description>
     </item>
     <item>
       <title>Schedule and Format</title>
