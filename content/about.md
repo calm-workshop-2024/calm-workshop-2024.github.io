@@ -22,6 +22,8 @@ With the striking potential of causality and the enormous interest in tackling t
 
 We would like to acknowledge that a related workshop, [Are Large Language Models Simply Causal Parrots?](https://llmcp.cause-lab.net/llmcp), held at AAAI 2024, shared some of our objectives.
 
+<p id="references">
+
 ## Selected References
 
 The following is a non-exhaustive list of selected references related to the topics of the workshop, compiled before announcing the call for papers.
@@ -88,3 +90,4 @@ You can see the list of references also in this public Zotero [library](https://
 [29] Jonathan Richens and Tom Everitt. Robust agents learn causal world models. In The Twelfth International Conference on Learning Representations, 2024. URL https: //openreview.net/forum?id=pOoKI3ouv1.
 
 [30] Amir Feder, Yoav Wald, Claudia Shi, Suchi Saria, and David Blei. Causal-structure driven augmentations for text OOD generalization. Advances in Neural Information Processing Systems, 36, 2024.
+</p>
