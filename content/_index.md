@@ -6,7 +6,7 @@ title: "Home"
 
 <!-- <img src="logo.jpeg" alt="CALM workshop" width="500px"/></a> -->
 
-The **First Workshop on Workshop on
+The **Workshop on
 Causality and Large Models (C♥️LM)** will be co-located with [**NeurIPS 2024**](https://neurips.cc/Conferences/2024/), in Vancouver, and held on **December, 2024.**
 
 
@@ -28,11 +28,13 @@ With the striking potential of causality and the enormous interest in tackling t
 
 * Causality of large models: Investigating the causal structure of how large models work and how to make them more interpretable and controllable.
 
+We would like to acknowledge that a related workshop, [Are Large Language Models Simply Causal Parrots?](https://llmcp.cause-lab.net/llmcp), held at AAAI 2024, shared some of our objectives.
+
 ## Important Dates
 
-* **Paper submission deadline: September 06, 2024, AoE**
+* **Paper submission deadline: September 23, 2024, AoE**
 * **Notification to authors: October 09, 2024, AoE**
 * **Camera-ready version: TBA**
-* **Workshop Date: December 14 or 15, 2024 - TBD, AoE**
+* **Workshop Date: December 14, 2024**
 
 Contact us at <calmworkshop2024@gmail.com>

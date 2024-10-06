@@ -20,9 +20,16 @@ With the striking potential of causality and the enormous interest in tackling t
 
 * Causality of large models: Investigating the causal structure of how large models work and how to make them more interpretable and controllable.
 
+We would like to acknowledge that a related workshop, [Are Large Language Models Simply Causal Parrots?](https://llmcp.cause-lab.net/llmcp), held at AAAI 2024, shared some of our objectives.
+
+<p id="references">
+
 ## Selected References
 
 The following is a non-exhaustive list of selected references related to the topics of the workshop, compiled before announcing the call for papers.
+
+You can see the list of references also in this public Zotero [library](https://www.zotero.org/groups/5650152/causality_and_large_models_-_neurips2024).
+
 
 [1] Xiaoyu Liu, Paiheng Xu, Junda Wu, Jiaxin Yuan, Yifan Yang, Yuhang Zhou, Fuxiao Liu, Tianrui Guan, Haoliang Wang, Tong Yu, Julian McAuley, Wei Ai, and Furong Huang. Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey, March 2024.
 
@@ -73,6 +80,7 @@ The following is a non-exhaustive list of selected references related to the top
 [24] Imant Daunhawer, Alice Bizeul, Emanuele Palumbo, Alexander Marx, and Julia E Vogt. Identifiability results for multimodal contrastive learning. In The Eleventh International Conference on Learning Representations, 2023. URL https://openreview.net/forum? id=U_2kuqoTcB.
 
 [25] Pedro Sanchez and Sotirios A. Tsaftaris. Diffusion causal models for counterfactual estimation. In First Conference on Causal Learning and Reasoning, 2022. URL https://openreview.net/forum?id=LAAZLZIMN-o.
+
 [26] Yushu Pan and Elias Bareinboim. Counterfactual image editing. arXiv preprint arXiv:2403.09683, 2024.
 
 [27] Jingling Li, Zeyu Tang, Xiaoyu Liu, Peter Spirtes, Kun Zhang, Liu Leqi, and Yang Liu. Steering LLMs towards unbiased responses: A causality-guided debiasing framework. In ICLR 2024 Workshop on Reliable and Responsible Foundation Models.
@@ -82,3 +90,4 @@ The following is a non-exhaustive list of selected references related to the top
 [29] Jonathan Richens and Tom Everitt. Robust agents learn causal world models. In The Twelfth International Conference on Learning Representations, 2024. URL https: //openreview.net/forum?id=pOoKI3ouv1.
 
 [30] Amir Feder, Yoav Wald, Claudia Shi, Suchi Saria, and David Blei. Causal-structure driven augmentations for text OOD generalization. Advances in Neural Information Processing Systems, 36, 2024.
+</p>

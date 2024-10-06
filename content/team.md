@@ -20,15 +20,15 @@ title: "Organisers"
     </div>
     <div class="person">
         <td><img src="/organizer_andrei.jpeg"></td>
-        <td><a href="https://andreinicolicioiu.github.io/">Andrei Nicolicioiu <br>(Mila and Université de Montréal,)</a></td>
+        <td><a href="https://andreinicolicioiu.github.io/">Andrei Nicolicioiu <br>(Mila and Université de Montréal)</a></td>
     </div>
     <div class="person">
         <td><img src="/organizer_xiusi.jpeg"></td>
-        <td>Xiusi Li <br>(Mila and McGill University)</a></td>
+        <td><a href="https://lixiusi.github.io/">Xiusi Li<br>(Mila and McGill University)</a></td>
     </div>
     <div class="person">
         <td><img src="/organizer_sophie.jpeg"></td>
-        <td>Sophie Xhonneux<br>(Mila and Université de Montréal)</a></td>
+        <td><a href="https://scholar.google.co.uk/citations?user=9TQM9k4AAAAJ&hl=en">Sophie Xhonneux <br>(Mila and Université de Montréal)</a></td>
     </div>
     <div class="person">
         <td><img src="/organizer_patrik.jpeg"></td>
