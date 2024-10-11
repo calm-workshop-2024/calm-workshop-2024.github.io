@@ -4,133 +4,100 @@ title: "Accepted Papers"
 
 # Accepted Papers
 
-Coming soon
 
-<!-- ## Orals
+## Oral Presentation
 
-* [**Multivariable Causal Discovery with General Nonlinear Relationships**](https://openreview.net/forum?id=TsXe-CyYJqx)  
-Patrik Reizinger, Yash Sharma, Matthias Bethge, Bernhard Schölkopf, Ferenc Huszár, Wieland Brendel  
+<!-- # Accepted Papers -->
 
-* [**Abstraction between Structural Causal Models: A Review of Definitions and Properties**](https://openreview.net/forum?id=GHZlIYDgZHE)    
-Fabio Massimo Zennaro  
+* [**From Causal to Concept-Based Representation Learning**](https://openreview.net/forum?id=FcVnIBYbkW)
+   
 
-* [**Partial Disentanglement via Mechanism Sparsity**](https://openreview.net/forum?id=Sa_53fqtUWF)  
-Sebastien Lachapelle, Simon Lacoste-Julien
+* [**Using Relational and Causality Context for Tasks with Specialized Vocabularies that are Challenging for LLMs**](https://openreview.net/forum?id=pAWrQEdlxq)
+   
 
+* [**Causally Testing Gender Bias in LLMs: A Case Study on Occupational Bias**](https://openreview.net/forum?id=T0gy6Lb72A)
+   
 
-* [**Causal Class Activation Maps for Weakly-Supervised Semantic Segmentation**](https://openreview.net/forum?id=vtWagx1luOX)  
-Yiping Wang
+* [**Causal Order: The Key to Leveraging Imperfect Experts in Causal Inference**](https://openreview.net/forum?id=3fzCBL6ar7)
+   
 
+## Poster Presentation
 
-## Posters
+* [**CausalQuest: Collecting Natural Causal Questions for AI Agents**](https://openreview.net/forum?id=MnzctRss9f)
+   
 
-* [**A Meta-Reinforcement Learning Algorithm for Causal Discovery**](https://openreview.net/forum?id=2Y2HwBqORqz)  
-Andreas W.M. Sauter, Erman Acar, Vincent Francois-Lavet
+* [**A Causal Perspective in Brainwave Foundation Models**](https://openreview.net/forum?id=IGSDECEKt8)
+   
 
+* [**Interactive Semantic Interventions for VLMs: A Causality-Inspired Investigation of VLM Failures**](https://openreview.net/forum?id=UkSY1BcdaD)
+   
 
-* [**Homomorphism Autoencoder --- Learning Group Structured Representations from Interactions**](https://openreview.net/forum?id=9XUM3-KJ50U)  
-Hamza Keurti, Hsiao-Ru Pan, Michel Besserve, Benjamin F. Grewe, Bernhard Schölkopf
+* [**Estimating Effects of Tokens in Preference Learning**](https://openreview.net/forum?id=USbL3Etk4G)
+   
 
+* [**Competence-Based Analysis of Language Models**](https://openreview.net/forum?id=gDXAde7AC7)
+   
 
-* [**Function Classes for Identifiable Nonlinear Independent Component Analysis**](https://openreview.net/forum?id=pQkXDsgVwYJ)  
-Simon Buchholz, Michel Besserve, Bernhard Schölkopf
+* [**CausalBench: A Comprehensive Benchmark for Evaluating Causal Reasoning Capabilities of Large Language Models**](https://openreview.net/forum?id=kbmGbm2L1P)
+    
 
+* [**Reasoning with a Few Good Cross-Questions Greatly Enhances Causal Event Attribution in LLMs**](https://openreview.net/forum?id=uEOUvr2xVo)
+    
 
-* [**Learning Causal Representations with Granger PCA**](https://openreview.net/forum?id=XsTEnaD_Lel)  
-Gherardo Varando, Miguel-Ángel Fernández-Torres, Jordi Muñoz-Marí, Gustau Camps-Valls
+* [**LLM-initialized Differentiable Causal Discovery**](https://openreview.net/forum?id=2gENrLD5nn)
+    
 
+* [**Counterfactual Causal Inference in Natural Language with Large Language Models**](https://openreview.net/forum?id=ldnKzNQ5l0)
+    
 
-* [**Identifiability of deep generative models under mixture priors without auxiliary information**](https://openreview.net/forum?id=UeG3kt_Ebg2)  
-Bohdan Kivva, Goutham Rajendran, Pradeep Kumar Ravikumar, Bryon Aragam
+* [**From Correlation to Causation: Understanding Climate Change through ML and LLM Inquiries**](https://openreview.net/forum?id=qTTSaRBVYI)
+    
 
+* [**Are UFOs Driving Innovation? The Illusion of Causality in Large Language Models**](https://openreview.net/forum?id=VVxxGUIGix)
+    
 
-* [**Leveraging Structure Between Environments: Phylogenetic Regularization Incentivizes Disentangled Representations**](https://openreview.net/forum?id=ilGixSIzaa6)  
-Elliot Layne, Dhanya Sridhar, Jason Hartford, Mathieu Blanchette
+* [**Evaluating Interventional Reasoning Capabilities of Large Language Models**](https://openreview.net/forum?id=n4AvrD8kl5)
+    
 
+* [**CodeSCM: Causal Analysis for Multi-Modal Code Generation**](https://openreview.net/forum?id=3sqBg9SI6Y)
+    
 
-* [**Invariance-Based Causal Estimation in the Presence of Concept Drift**](https://openreview.net/forum?id=OUPRc9EnlNb)  
-Katie Matton, John Guttag, Rosalind Picard
+* [**Counterfactual Token Generation in Large Language Models**](https://openreview.net/forum?id=S4pwjKmLGR)
+    
 
+* [**Hypothesizing Missing Causal Variables with LLMs**](https://openreview.net/forum?id=lXVVpoW2CJ)
+    
 
-* [**Weather2vec: Representation Learning for Causal Inference with Non-Local Confounding in Air Pollution and Climate Studies**](https://openreview.net/forum?id=ui8B5Q9qjZ6)  
-Mauricio Tec, James G. Scott, Corwin Zigler
+* [**Investigating Causal Reasoning in Large Language Models**](https://openreview.net/forum?id=EGWrfirmIM)
+    
 
+* [**CausalGraph2LLM: Evaluating LLMs for Causal Queries**](https://openreview.net/forum?id=wqir4sG2Bc)
+    
 
-* [**Explanatory World Models via Look Ahead Attention for Credit Assignment**](https://openreview.net/forum?id=0A3gdgzV1Fe)  
-Oriol Corcoll, Raul Vicente
+* [**On Incorporating Prior Knowledge Extracted from Pre-trained Language Models into Causal Discovery**](https://openreview.net/forum?id=lZLwoWXVWy)
+    
 
+* [**Leveraging LLM-Generated Structural Prior for Causal Inference with Concurrent Causes**](https://openreview.net/forum?id=AqRQvOINf8)
+    
 
-* [**Selection Collider Bias in Large Language Models**](https://openreview.net/forum?id=wf8UBIR-Gwl)  
-Emily McMilin
+* [**Causal Reasoning in Large Language Models: A Knowledge Graph Approach**](https://openreview.net/forum?id=xzeiWXOxBu)
+    
 
+* [**Are Police Biased? An NLP Approach**](https://openreview.net/forum?id=3hdNJr8IR4)
+    
 
-* [**Towards a Grounded Theory of Causation for Embodied AI**](https://openreview.net/forum?id=K9PI5ewchUY)  
-Taco Cohen
+* [**On LLM Augmented AB Experimentation**](https://openreview.net/forum?id=dgeWznoY8h)
+    
 
+* [**Causal Interventions on Causal Paths: Mapping GPT-2's Reasoning From Syntax to Semantics**](https://openreview.net/forum?id=6Hgd2pmwcN)
+    
 
-* [**Probing the Robustness of Independent Mechanism Analysis for Representation Learning**](https://openreview.net/forum?id=MnKSQVBVpBQ)  
-Joanna Sliwa, Shubhangi Ghosh, Vincent Stimper, Luigi Gresele, Bernhard Schölkopf
+* [**Teaching Transformers Causal Reasoning through Axiomatic Training**](https://openreview.net/forum?id=vnFtU3fO9h)
+    
 
+* [**Causal World Representation in the GPT Model**](https://openreview.net/forum?id=S4X1P4QOFo)
+    
 
-* [**Bias Challenges in Counterfactual Data Augmentation**](https://openreview.net/forum?id=G26c5xX1h59)  
-S. Chandra Mouli, Yangze Zhou, Bruno Ribeiro
+* [**Can large language models reason about causal relationships in multimodal time series data?**](https://openreview.net/forum?id=Wmg7IZl32b)
+    
 
-
-* [**Towards Computing an Optimal Abstraction for Structural Causal Models**](https://openreview.net/forum?id=zGLniPvGsWT)  
-Fabio Massimo Zennaro, Paolo Turrini, Theo Damoulas
-
-
-* [**Structure by Architecture: Disentangled Representations without Regularization**](https://openreview.net/forum?id=_eQoI06U3zF)  
-Felix Leeb, Giulia Lanzillotta, Yashas Annadani, Michel Besserve, Stefan Bauer, Bernhard Schölkopf
-
-
-* [**SlotFormer: Long-Term Dynamic Modeling in Object-Centric Models**](https://openreview.net/forum?id=TTeMp6953v4)  
-Ziyi Wu, Nikita Dvornik, Klaus Greff, Jiaqi Xi, Thomas Kipf, Animesh Garg
-
-
-* [**Can Large Language Models Distinguish Causal and Anticausal Relations?**](https://openreview.net/forum?id=ucHh-ytUkOH)  
-Zhiheng Lyu, Zhijing Jin, Rada Mihalcea, Mrinmaya Sachan, Bernhard Schölkopf
-
-
-* [**iCITRIS: Causal Representation Learning for Instantaneous Temporal Effects**](https://openreview.net/forum?id=xeDKTZsZ7Z7)  
-Phillip Lippe, Sara Magliacane, Sindy Löwe, Yuki M. Asano, Taco Cohen, Efstratios Gavves
-
-
-* [**Estimating Categorical Counterfactuals via Deep Twin Networks**](https://openreview.net/forum?id=LeiiGwpGjSt)  
-Athanasios Vlontzos, Bernhard Kainz, Ciarán Mark Gilligan-Lee
-
-
-* [**Intervention Design for Causal Representation Learning**](https://openreview.net/forum?id=TpVzjh4M2hd)  
-Phillip Lippe, Sara Magliacane, Sindy Löwe, Yuki M. Asano, Taco Cohen, Efstratios Gavves
-
-
-* [**Inductive Biases for Object-Centric Representations in the Presence of Complex Textures**](https://openreview.net/forum?id=6wbNpKmfEOj)  
-Samuele Papa, Ole Winther, Andrea Dittadi
-
-
-* [**Weakly supervised causal representation learning**](https://openreview.net/forum?id=oQOfMrkGVEu)  
-Johann Brehmer, Pim De Haan, Phillip Lippe, Taco Cohen
-
-
-* [**Causal Discovery from Conditionally Stationary Time Series**](https://openreview.net/forum?id=LIAN4ILH_68)  
-Carles Balsells Rodas, Ruibo Tu, Yingzhen Li, Hedvig Kjellstrom
-
-
-* [**BaCaDI: Bayesian Causal Discovery with Unknown Interventions**](https://openreview.net/forum?id=gbgPtVkztWn)  
-Alexander Hägele, Jonas Rothfuss, Lars Lorch, Vignesh Ram Somnath, Bernhard Schölkopf, Andreas Krause
-
-
-* [**On the DCI Framework for Evaluating Disentangled Representations: Extensions and Connections to Identifiability**](https://openreview.net/forum?id=KiMUlK8GNG5)  
-Cian Eastwood, Andrei Liviu Nicolicioiu, Julius Von Kügelgen, Armin Kekic, Frederik Träuble, Andrea Dittadi, Bernhard Schölkopf
-
-
-* [**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://openreview.net/forum?id=kn7uYQJraAt)  
-Emanuele Marconato, Andrea Passerini, Stefano Teso
-
-
-* [**Object-based Active Inference**](https://openreview.net/forum?id=-y4huxA7DQS)  
-Ruben van Bergen, Pablo Lanillos
-
-
-* [**Can Foundation Models Talk Causality?**](https://openreview.net/forum?id=DbJXEqU0kaM)  
-Moritz Willig, Matej Zečević, Devendra Singh Dhami, Kristian Kersting -->

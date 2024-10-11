@@ -47,3 +47,7 @@ disableKinds = ["taxonomyTerm"]
     name = "Invited Speakers"
     url  = "/invited-speakers"
     weight = 6
+[[menu.main]]
+    name = "Accepted Papers"
+    url  = "/accepted-papers"
+    weight = 7
