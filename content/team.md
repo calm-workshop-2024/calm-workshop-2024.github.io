@@ -60,7 +60,137 @@ title: "Organisers"
 
 We have recruited a diverse group of great reviewers to help us evaluate the submissions to the workshop. We are grateful for their time and expertise.
 
-> Credits coming soon!
+Abdellah Rahmani, EPFL - EPF Lausanne
+
+Adam Sorrenti, Toronto Metropolitan University
+
+Akshata Kishore Moharir, Microsoft
+
+Aleksandr Simonyan, Visual Concepts
+
+Alessandro Leite, INRIA
+
+Aneesh Komanduri, University of Arkansas - Fayetteville
+
+Anisha Saha, Chennai Mathematical Institute, Dhirubhai Ambani Institute Of Information and Communication Technology
+
+Arian Khorasani, Mila - Quebec Artificial Intelligence Institute
+
+Baiting Chen, UCLA, University of California, Los Angeles
+
+Biswarup Bhattacharya, Citadel
+
+Changsheng Lv, Beijing University of Posts and Telecommunications
+
+Ching Lam Choi, Massachusetts Institute of Technology
+
+Daniel Herbst, Technical University of Munich
+
+Dong-Yu Gao, Copenhagen University
+
+Gautam Sreekumar, Michigan State University
+
+Haocheng Bi, Massachusetts Institute of Technology
+
+Hoang-Son Nguyen, Oregon State University
+
+Huichi Zhou, Imperial College London
+
+Inwoo Hwang, Seoul National University
+
+Jeshwanth Challagundla, Google
+
+Jianbo Wu, University of California, Merced
+
+Jithendaraa Subramanian, McGill University
+
+Kamilė Stankevičiūtė, University of Cambridge
+
+Kevin Heins, University of California, Irvine
+
+Khashayar Namdar, Toronto University
+
+Lei Li, University of Washington
+
+Luyao Tang, Xiamen University
+
+Maheep Chaudhary, Nanyang Technological University
+
+Mantek Singh, Google
+
+Martin Spindler, Universität Hamburg
+
+Matej Gradoš, Tampere University
+
+Matin Khajavi, Apiphany
+
+Md Musfiqur Rahman, Purdue University
+
+Mohammad Javad Darvishi Bayazi, University of Montreal
+
+Moritz Willig, Technical University of Darmstadt
+
+Mouxiao Huang, Huawei Technologies Ltd.
+
+Nizar Islah, Mila, Université de Montréal
+
+PHILIPPE BROUILLARD, University of Montreal
+
+Pierre Thodoroff, University of Cambridge
+
+Pouya Hamadanian, Cambridge Mobile Telematics
+
+Raeid Saqur, University of Toronto
+
+Raghavendra Addanki, Adobe Systems
+
+Ricardo Pio Monti, University College London
+
+Ruchira Dhar, University of Copenhagen
+
+Rushil Gupta, Université de Montréal
+
+Sayali Rajeev Kulkarni, Amazon
+
+Shu Wan, Arizona State University
+
+Stratis Tsirtsis, MPI-SWS
+
+Susu Sun, Eberhard-Karls-Universität Tübingen
+
+Théo Saulus, Ecole Normale Superieure
+
+Tom Marty, Mila, Université de Montréal
+
+Toon Vanderschueren, KU Leuven
+
+V Gurucharan, Collaborative Dynamics
+
+Vighnesh Subramaniam, Massachusetts Institute of Technology
+
+Vivek Tiwari, Amazon
+
+Weisi Liu, University of Memphis
+
+Xiaojing Du, University of South Australia
+
+Xingjian Zhang, University of Michigan - Ann Arbor
+
+Yasin Ibrahim, University of Oxford
+
+Ye Zhang, University of Pittsburgh
+
+Yicheng Fu, Stanford University
+
+Yisong Miao, National University of Singapore
+
+Yujia Zheng, Carnegie Mellon University
+
+Zarreen Reza, JACOBB - Center of Applied AI
+
+Zhehao Zhang, Dartmouth College
+
+Ziqing Yang, CISPA Helmholtz Center for Information Security
 
 <!-- From an initial, limited call of action, we have a list of 34 confirmed reviewers.  -->
 
