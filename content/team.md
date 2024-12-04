@@ -140,7 +140,7 @@ PHILIPPE BROUILLARD, University of Montreal
 
 Pierre Thodoroff, University of Cambridge
 
-Pouya Hamadanian, Cambridge Mobile Telematics
+Pouya Hamadanian, Massachusetts Institute of Technology
 
 Raeid Saqur, University of Toronto
 
