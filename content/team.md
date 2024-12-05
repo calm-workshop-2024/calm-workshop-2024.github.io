@@ -160,7 +160,7 @@ Stratis Tsirtsis, MPI-SWS
 
 Susu Sun, Eberhard-Karls-Universität Tübingen
 
-Théo Saulus, Ecole Normale Superieure
+Théo Saulus, CentraleSupélec and Ecole Normale Supérieure Paris-Saclay
 
 Tom Marty, Mila, Université de Montréal
 
