@@ -9,7 +9,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "C♥️LM: First Workshop on"
   title = "Causality and Large Models"
-  subtitle = "December 14 @ NeurIPS 2024"
+  subtitle = "December 14 @ NeurIPS 2024 in East Hall C"
   author = "Felix Leeb, Ching Lam Choi, Luigi Gresele, Josef Valvoda, Andrei Nicolicioiu, Xiusi Li, Patrik Reizinger, Sophie Xhonneux, Haoxuan Li, Mengyue Yang, Bernhard Schölkopf, Dhanya Sridhar"
   description = "First Workshop on Causality and Large Models (C♥️LM) @ NeurIPS 2024"
   keywords = ["workshop", "causal representation learning", "large models", "foundation models"]

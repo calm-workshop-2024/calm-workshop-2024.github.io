@@ -35,7 +35,7 @@ The workshop will take place in **East Hall C** of the Vancouver Convention Cent
     </tr>
     <tr class="invited">
         <td>09:30 - 10:00</td>
-        <td>Jane X. Wang - Causal reasoning in foundation agents</td>
+        <td>Jane X. Wang - <small>Causal reasoning in foundation agents</small></td>
         <td>In-person</td>
     </tr>
     <tr class="break">
