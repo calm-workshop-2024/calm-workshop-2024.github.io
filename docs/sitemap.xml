@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://calm-workshop-2024.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/accepted-papers/</loc>
+    <loc>http://localhost:1313/accepted-papers/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/call-for-papers/</loc>
+    <loc>http://localhost:1313/call-for-papers/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/call-for-reviewers/</loc>
+    <loc>http://localhost:1313/call-for-reviewers/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/formatting-instructions/</loc>
+    <loc>http://localhost:1313/formatting-instructions/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/dates/</loc>
+    <loc>http://localhost:1313/dates/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/invited-speakers/</loc>
+    <loc>http://localhost:1313/invited-speakers/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/team/</loc>
+    <loc>http://localhost:1313/team/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/schedule/</loc>
+    <loc>http://localhost:1313/schedule/</loc>
   </url><url>
-    <loc>https://calm-workshop-2024.github.io/slides-recording/</loc>
+    <loc>http://localhost:1313/slides-recording/</loc>
   </url>
 </urlset>

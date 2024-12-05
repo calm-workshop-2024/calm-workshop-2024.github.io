@@ -34,7 +34,7 @@ We would like to acknowledge that a related workshop, [Are Large Language Models
 
 * **Paper submission deadline: September 23, 2024, AoE**
 * **Notification to authors: October 09, 2024, AoE**
-* **Camera-ready version: TBA**
+* **Camera-ready version: December 7, 2024**
 * **Workshop Date: December 14, 2024**
 
 Contact us at <calmworkshop2024@gmail.com>
