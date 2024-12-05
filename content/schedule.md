@@ -25,7 +25,7 @@ The workshop will take place in **East Hall C** of the Vancouver Convention Cent
     </tr>
     <tr>
         <td>08:45 - 09:00</td>
-        <td>Opening remarks with Bernhard Schölkopf</td>
+        <td>Opening remarks</td>
         <td>Virtual</td>
     </tr>
     <tr class="invited">

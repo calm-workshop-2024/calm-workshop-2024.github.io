@@ -7,7 +7,7 @@ title: "Home"
 <!-- <img src="logo.jpeg" alt="CALM workshop" width="500px"/></a> -->
 
 The **Workshop on
-Causality and Large Models (C♥️LM)** will be co-located with [**NeurIPS 2024**](https://neurips.cc/Conferences/2024/), in Vancouver, and held on **December, 2024.**
+Causality and Large Models (C♥️LM)** will be co-located with [**NeurIPS 2024**](https://neurips.cc/Conferences/2024/), in Vancouver, and held on **December 14th, 2024**.
 
 
 ## About the workshop
