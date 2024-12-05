@@ -4,6 +4,14 @@ title: "Call for Papers"
 
 # Call for Papers
 
+## Important Dates
+
+* **Paper submission deadline: September 23, 2024, AoE**
+* **Notification to authors: October 09, 2024, AoE**
+* **Camera-ready version: December 7, 2024**
+* **Workshop Date: December 14, 2024**
+
+
 ## Submit your paper on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/CALM)
 
 Our workshop aims to explore the many exciting synergies between causality and large models. We identify four main directions to cover in our workshop:

@@ -49,7 +49,7 @@ title: "Invited Speakers"
     </div>
     <div class="person">
         <td><img src="/panellist4_charlotte.webp"></td>
-        <td><a href="https://www.bunnelab.com/">Charlotte Bunne<br>(EPFL)</a></td>
+        <td><a href="https://aimm.epfl.ch/">Charlotte Bunne<br>(EPFL)</a></td>
     </div>
         <div class="person">
         <td><img src="/panellist5_chelsea.jpeg"></td>

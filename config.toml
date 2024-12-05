@@ -9,7 +9,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "C♥️LM: First Workshop on"
   title = "Causality and Large Models"
-  subtitle = "December @ NeurIPS 2024"
+  subtitle = "December 14 @ NeurIPS 2024 in East Hall C"
   author = "Felix Leeb, Ching Lam Choi, Luigi Gresele, Josef Valvoda, Andrei Nicolicioiu, Xiusi Li, Patrik Reizinger, Sophie Xhonneux, Haoxuan Li, Mengyue Yang, Bernhard Schölkopf, Dhanya Sridhar"
   description = "First Workshop on Causality and Large Models (C♥️LM) @ NeurIPS 2024"
   keywords = ["workshop", "causal representation learning", "large models", "foundation models"]
@@ -26,28 +26,24 @@ disableKinds = ["taxonomyTerm"]
     url  = "/about"
     weight = 1
 
-[[menu.main]]
-    name = "Call for Papers"
-    url  = "/call-for-papers"
-    weight = 2
 
-[[menu.main]]
-    name = "Dates"
-    url  = "/dates"
-    weight = 3
 [[menu.main]]
     name = "Schedule"
     url  = "/schedule"
-    weight = 4
-[[menu.main]]
-    name = "Our Team"
-    url  = "/team"
-    weight = 5
+    weight = 2
 [[menu.main]]
     name = "Invited Speakers"
     url  = "/invited-speakers"
-    weight = 6
+    weight = 3
 [[menu.main]]
     name = "Accepted Papers"
     url  = "/accepted-papers"
-    weight = 7
+    weight = 4
+[[menu.main]]
+    name = "Call for Papers"
+    url  = "/call-for-papers"
+    weight = 5
+[[menu.main]]
+    name = "Our Team"
+    url  = "/team"
+    weight = 6

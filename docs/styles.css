@@ -265,6 +265,15 @@ li {
     background-color: #B6D7A8;
 }
 
+.poster {
+    background-color: #F9CB9C;
+}
+
+.panel {
+    background-color: #FFD1DC;
+}
+
+
 
 .list-of-people {
     margin: 0 auto;

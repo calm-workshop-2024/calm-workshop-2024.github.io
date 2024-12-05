@@ -7,7 +7,7 @@ title: "Home"
 <!-- <img src="logo.jpeg" alt="CALM workshop" width="500px"/></a> -->
 
 The **Workshop on
-Causality and Large Models (C♥️LM)** will be co-located with [**NeurIPS 2024**](https://neurips.cc/Conferences/2024/), in Vancouver, and held on **December, 2024.**
+Causality and Large Models (C♥️LM)** will be co-located with [**NeurIPS 2024**](https://neurips.cc/Conferences/2024/), in Vancouver, and held on **December 14th, 2024**.
 
 
 ## About the workshop
@@ -34,7 +34,7 @@ We would like to acknowledge that a related workshop, [Are Large Language Models
 
 * **Paper submission deadline: September 23, 2024, AoE**
 * **Notification to authors: October 09, 2024, AoE**
-* **Camera-ready version: TBA**
+* **Camera-ready version: December 7, 2024**
 * **Workshop Date: December 14, 2024**
 
 Contact us at <calmworkshop2024@gmail.com>
