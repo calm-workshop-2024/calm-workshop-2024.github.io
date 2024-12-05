@@ -35,7 +35,7 @@ The workshop will take place in **East Hall C** of the Vancouver Convention Cent
     </tr>
     <tr class="invited">
         <td>09:30 - 10:00</td>
-        <td>Jane X. Wang - TBD</td>
+        <td>Jane X. Wang - Causal reasoning in foundation agents</td>
         <td>In-person</td>
     </tr>
     <tr class="break">
@@ -122,8 +122,37 @@ The workshop will take place in **East Hall C** of the Vancouver Convention Cent
 
 All talks will be recorded and made available to registered participants after the workshop through the NeurIPS website.
 
-## Poster Session
+## Poster Sessions
 
 All accepted papers will be presented as a poster at the workshop. All posters should be put up in the morning (e.g., during the first break) and will remain up during the whole day, and presenters may present in either or both of the two poster sessions. 
 
 For virtual participants, we encourage you to view the papers on OpenReview and reach out to the authors directly, for example through the NeurIPS virtual platform.
+
+
+## Invited Talks
+
+The abstracts for the invited talks will be listed here as they become available.
+
+<!-- ### Amit Sharma: TBD
+
+Abstract TBD
+
+### Jane X. Wang: Causal reasoning in foundation agents
+
+Abstract TBD
+
+### Elias Bareinboim: TBD
+
+Abstract TBD
+
+### Victor Veitch: TBD
+
+Abstract TBD
+
+### Claudia Shi: TBD
+
+Abstract TBD
+
+### Tobias Gerstenberg: TBD
+
+Abstract TBD -->
