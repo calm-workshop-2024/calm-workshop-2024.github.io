@@ -26,7 +26,7 @@ The workshop will take place in **East Hall C** of the Vancouver Convention Cent
     <tr>
         <td>08:45 - 09:00</td>
         <td>Opening remarks</td>
-        <td>Virtual</td>
+        <td>Hybrid</td>
     </tr>
     <tr class="invited">
         <td>09:00 - 09:30</td>
@@ -95,7 +95,7 @@ The workshop will take place in **East Hall C** of the Vancouver Convention Cent
     </tr>
     <tr class="invited">
         <td>15:30 - 16:00</td>
-        <td>Claudia Shi - TBD</td>
+        <td>Claudia Shi - <small>Hypothesis testing the circuit hypothesis in LLMs</small></td>
         <td>In-person</td>
     </tr>
     <tr class="invited">
