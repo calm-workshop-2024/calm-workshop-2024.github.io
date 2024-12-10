@@ -47,9 +47,13 @@ title: "Invited Speakers"
         <td><img src="/panellist3_atticus.jpeg"></td>
         <td><a href="https://atticusg.github.io/">Atticus Geiger<br>(Pr(Ai)²R Group)</a></td>
     </div>
-    <div class="person">
+    <!-- <div class="person">
         <td><img src="/panellist4_charlotte.webp"></td>
         <td><a href="https://aimm.epfl.ch/">Charlotte Bunne<br>(EPFL)</a></td>
+    </div> -->
+    <div class="person">
+        <td><img src="/speaker6_elias.jpeg"></td>
+        <td><a href="https://causalai.net/">Elias Bareinboim<br>(Columbia University)</a></td>
     </div>
         <div class="person">
         <td><img src="/panellist5_chelsea.jpeg"></td>

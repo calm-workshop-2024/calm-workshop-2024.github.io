@@ -30,7 +30,7 @@ The workshop will take place in **East Hall C** of the Vancouver Convention Cent
     </tr>
     <tr class="invited">
         <td>09:00 - 09:30</td>
-        <td>Amit Sharma - TBD</td>
+        <td>Amit Sharma - <small>Teaching causal reasoning to language models</small></td>
         <td>In-person</td>
     </tr>
     <tr class="invited">
@@ -105,7 +105,7 @@ The workshop will take place in **East Hall C** of the Vancouver Convention Cent
     </tr>
     <tr class="panel">
         <td>16:30 - 17:30</td>
-        <td>Panel discussion: Maria Antoniak, Charlotte Bunne, Chelsea Finn, Atticus Geiger, Zhijing Jin, Giambattista Parascandolo</td>
+        <td>Panel discussion: Maria Antoniak, Elias Bareinboim, Chelsea Finn, Atticus Geiger, Zhijing Jin, Giambattista Parascandolo</td>
         <td>In-person</td>
     </tr>
     <tr>
@@ -133,11 +133,11 @@ For virtual participants, we encourage you to view the papers on OpenReview and 
 
 The abstracts for the invited talks will be listed here as they become available.
 
-<!-- ### Amit Sharma: TBD
+### Amit Sharma: Teaching causal reasoning to language models
 
-Abstract TBD
+Large language models (LLMs) have demonstrated remarkable accuracy in identifying cause-and-effect relationships across diverse scientific domains. However, their ability to reason over these relationships remains a challenge. To address this, we propose axiomatic training—a novel approach that enhances causal reasoning by teaching LLMs fundamental causal axioms one at a time, rather than fine-tuning them for specific tasks. By training on synthetic demonstrations of axioms such as transitivity and d-separation, we show that models with fewer than 100 million parameters can surpass reasoning capabilities of significantly larger models such as Phi-3, Gemini Pro and GPT-4. Axiomatic training has practical applications as a tool for constructing verifiers for LLM-generated reasoning and for embedding inductive biases into LLM fine-tuning. Moreover, it provides insights into how models like GPT-4, trained solely on observational data, can exhibit advanced reasoning capabilities.
 
-### Jane X. Wang: Causal reasoning in foundation agents
+<!-- ### Jane X. Wang: Causal reasoning in foundation agents
 
 Abstract TBD
 
