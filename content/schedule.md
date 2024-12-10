@@ -131,7 +131,9 @@ For virtual participants, we encourage you to view the papers on OpenReview and 
 
 ## Invited Talks
 
-The abstracts for the invited talks will be listed here as they become available.
+<!-- We have some amazing invited speakers lined up for the workshop! -->
+
+<!-- The abstracts for the invited talks will be listed here as they become available. -->
 
 ### Amit Sharma: Teaching causal reasoning to language models
 
