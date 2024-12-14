@@ -100,7 +100,7 @@ The workshop will take place in **East Exhibition Hall C** of the Vancouver Conv
     </tr>
     <tr class="invited">
         <td>16:00 - 16:30</td>
-        <td>Tobias Gerstenberg - TBD</td>
+        <td>Tobias Gerstenberg - <small>Causal thinking in humans and machines</small></td>
         <td>In-person</td>
     </tr>
     <tr class="panel">
