@@ -5,6 +5,8 @@ title: "Schedule and Format"
 
 # Workshop Schedule & Format
 
+To ask questions for the talks and panel, please submit them through [slido](https://app.sli.do/event/c91wRVPy6h9BpKpRsL6uNm) #4007290.
+
 The workshop will take place in **East Exhibition Hall C** of the Vancouver Convention Centre on **December 14, 2024**. The workshop will be a hybrid event, with both in-person and virtual participation. The schedule is as follows:
 
 
