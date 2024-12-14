@@ -5,7 +5,7 @@ title: "Schedule and Format"
 
 # Workshop Schedule & Format
 
-The workshop will take place in **East Hall C** of the Vancouver Convention Centre on **December 14, 2024**. The workshop will be a hybrid event, with both in-person and virtual participation. The schedule is as follows:
+The workshop will take place in **East Exhibition Hall C** of the Vancouver Convention Centre on **December 14, 2024**. The workshop will be a hybrid event, with both in-person and virtual participation. The schedule is as follows:
 
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
