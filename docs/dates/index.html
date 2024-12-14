@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 
-    <meta name="generator" content="Hugo 0.101.0" />
-    <meta name="date" content="">
+    <meta name="generator" content="Hugo 0.135.0">
+    <meta name="date" content="2024-09-27T13:17:08Z">
     
     <meta charset="utf-8">
     <meta name="HandheldFriendly" content="True">
@@ -78,6 +78,264 @@
 <li><strong>Notification to authors: October 09, 2024, AoE</strong></li>
 <li><strong>Camera-ready version: December 7, 2024</strong></li>
 <li><strong>Workshop Date: December 14, 2024</strong></li>
+</ul>
+<h1 id="panelists">Panelists</h1>
+<p><a href="https://scholar.google.com/citations?hl=en&amp;user=r5U-D7YAAAAJ">Elias Bareinboim</a></p>
+<ul>
+<li>causal inference</li>
+</ul>
+<p><a href="https://scholar.google.com/citations?hl=en&amp;user=w2Qzno8AAAAJ">Atticus Geiger</a></p>
+<ul>
+<li>mechanistic interpretability</li>
+</ul>
+<p><a href="https://scholar.google.com/citations?hl=en&amp;user=vfPE6hgAAAAJ">Chelsea Finn</a></p>
+<ul>
+<li>meta-learning</li>
+<li>robotics</li>
+</ul>
+<p><a href="https://scholar.google.com/citations?hl=en&amp;user=lNaynLcAAAAJ">Maria Antoniak</a></p>
+<ul>
+<li>cultural understanding</li>
+</ul>
+<p><a href="https://scholar.google.com/citations?hl=en&amp;user=Mdr6wjUAAAAJ">Zhijing Jin</a></p>
+<ul>
+<li>causal NLP for social good</li>
+</ul>
+<p><a href="https://scholar.google.com/citations?hl=en&amp;user=1zCDX_UAAAAJ">Giambattista Parascandolo</a></p>
+<ul>
+<li>reasoning</li>
+<li>interpretability</li>
+</ul>
+<h1 id="questions">Questions</h1>
+<ol>
+<li>How would you describe your past work: more &ldquo;causality focused&rdquo; or more &ldquo;large model focused&rdquo;? What direction would you like to be going? Why?</li>
+<li>Are LLMs still satisfactory, or do we need a <em>paradigm shift</em>? Are we due for one? Where? What will it look like?</li>
+<li>generalization
+<ul>
+<li>relationship between interpretability and generalizability</li>
+<li>Do you need OOD generalization (guarantees) if you train on everything (except the benchmarks of-course)?</li>
+</ul>
+</li>
+<li>What is the role of causality: does it emerge (e.g. from data) or do we (have to) build it in (e.g. our learning process)?</li>
+<li>Strengths and weaknesses of an explicitly causal framing</li>
+<li>revising the Chinese Room: what does it mean for a model to &ldquo;understand&rdquo; something? What does it mean for us to &ldquo;understand&rdquo; a model?
+<ul>
+<li>sufficient and necessary conditions for &ldquo;understanding&rdquo; - are they causal?</li>
+</ul>
+</li>
+<li>In the context of safety-critical applications, are more causal methods preferrable to the alternative? Are they necessary?
+<ul>
+<li>embodied AI and robotics</li>
+</ul>
+</li>
+<li>which of the 4 directions is most exciting to you? Why?
+<ul>
+<li>Causality <strong>for</strong> large models</li>
+<li>Causality <strong>with</strong> large models</li>
+<li>Causality <strong>of</strong> large models</li>
+<li>Causality <strong>in</strong> large models</li>
+<li>are we missing some other type of interaction?</li>
+</ul>
+</li>
+<li>structure vs function: is there a tradeoff between interpretability and performance?</li>
+<li>The causality killer app: is it a myth? an actionable goal? already achieved and we do/dont know it?</li>
+<li>steering/alignment: data curation problem</li>
+</ol>
+<ul>
+<li>open source vs proprietary efforts</li>
+<li>How long before an open-source LLM gets top of the (chat) leaderboard? Why?</li>
+</ul>
+<ol start="12">
+<li>overrated vs underrated</li>
+</ol>
+<ul>
+<li>causality: counterfactual <em>anything</em> (methods, data, tasks, frameworks, etc), causal discovery, philosophy of causality, non-statistical formulations (pre-Pearl, non-analytical, logic), graphical modeling (of real systems)</li>
+<li>large models: multi-modal models, scaling up everything, transformers, sim-to-real, ChatGPT, Claude, Gemini, and other consumer-facing large models, explainable AI (post-hoc interpretability)</li>
+</ul>
+<ol start="13">
+<li>Do we need more trained causality people or more large model people? What&rsquo;s your advice to students?</li>
+</ol>
+<h2 id="preview">Preview</h2>
+<ol>
+<li>How would you describe your past work: more &ldquo;causality focused&rdquo; or more &ldquo;large model focused&rdquo;? What direction would you like to be going? Why?</li>
+<li>How do you feel about the current state of foundation models (transformers, diffusion models, etc.)? Do we need a <em>paradigm shift</em>? Are we due for one? What do you think it&rsquo;ll look like?</li>
+<li>On generalization:
+<ul>
+<li>What is the relationship between interpretability and generalizability?</li>
+<li>Do we need OOD generalization (guarantees) if you train on everything?</li>
+</ul>
+</li>
+<li>How can/should models use causal knowledge? Should models memorize known causal relationships, should the reasoning process have causal structure, or should the model be able to perform interventions?</li>
+<li>&ldquo;Learning by doing:&rdquo; is interventional data the key to foundation models for physical intelligence?</li>
+<li>Under what circumstances should we prioritize or even necessitate causal methods?
+<ul>
+<li>safety-critical applications: medical, autonomous vehicles, etc.</li>
+<li>physical systems: embodied AI and robotics</li>
+<li>socially sensitive or controversial applications: justice, social media, etc.</li>
+</ul>
+</li>
+<li>What is the role of causality: does it emerge (e.g. from data) or do we (have to) build it in (e.g. our learning process)?</li>
+<li>Revisiting the Chinese Room: what does it mean for a model to &ldquo;understand&rdquo; something? What does it mean for us to &ldquo;understand&rdquo; a model?
+<ul>
+<li>What are the sufficient and necessary conditions for &ldquo;understanding&rdquo; - are they causal?</li>
+<li>What result/behavior would convince you that a model &ldquo;understands&rdquo; something?</li>
+</ul>
+</li>
+<li>Which of these directions is most exciting to you? Why?</li>
+</ol>
+<ul>
+<li>Causality <strong>for</strong> large models - Applying ideas from causality to augment and improve large models.</li>
+<li>Causality <strong>with</strong> large models - Leveraging large models to improve causal inference and discovery.</li>
+<li>Causality <strong>of</strong> large models - Investigating the causal structure of how large models work and how to make them more interpretable and controllable.</li>
+<li>Causality <strong>in</strong> large models - Assessing the causal knowledge captured by large models and their (causal) reasoning abilities.</li>
+<li>are we missing some other type of interaction?</li>
+</ul>
+<ol start="10">
+<li>Structure vs function: is there a tradeoff between interpretability and performance?</li>
+<li>The causality &ldquo;killer app&rdquo;: is it a myth? an actionable goal? Already achieved and we do/dont know it?</li>
+<li>Is LLM steering/alignment chiefly a matter of data curation?</li>
+</ol>
+<ul>
+<li>How should we think of open source vs proprietary efforts in this regard? Should they specialize in different areas?</li>
+<li>How long before an open-source model gets to the top of the leaderboard/s? Why?</li>
+</ul>
+<ol start="13">
+<li>For each of the topics below, do you think it is <em>overrated</em> or <em>underrated</em> in our community?</li>
+</ol>
+<ul>
+<li>causality: counterfactual <em>anything</em> (methods, data, tasks, frameworks, etc), causal discovery, philosophy of causality, non-statistical formulations (pre-Pearl, non-analytical, logic), graphical modeling (of real systems)</li>
+<li>large models: multi-modal models, scaling up everything, transformers, sim-to-real, ChatGPT, Claude, Gemini, and other consumer-facing large models, explainable AI (post-hoc interpretability)</li>
+</ul>
+<ol start="14">
+<li>Do we need more trained causality people or more large model people? What&rsquo;s your advice to students?
+<ul>
+<li>Will we be sitting here in a year? What will have changed?</li>
+</ul>
+</li>
+</ol>
+<hr />
+<p><strong>Past Work and Future Directions</strong></p>
+<ul>
+<li>How would you describe your past work: more <em>causality focused</em> or more <em>large model focused</em>?</li>
+<li>What direction would you like to be going, and why?</li>
+</ul>
+<p><strong>State of Foundation Models</strong></p>
+<ul>
+<li>How do you feel about the current state of foundation models (transformers, diffusion models, etc.)?</li>
+<li>Do we need a <em>paradigm shift</em>? Are we due for one?</li>
+<li>What do you think such a shift would look like?</li>
+</ul>
+<p><strong>On Generalization</strong></p>
+<ul>
+<li>What is the relationship between interpretability and generalizability?</li>
+<li>Do we need OOD (Out-of-Distribution) generalization guarantees if we train on “everything”?</li>
+</ul>
+<p><strong>Using Causal Knowledge in Models</strong></p>
+<ul>
+<li>How should models utilize causal knowledge?</li>
+<li>Should they memorize known causal relationships?</li>
+<li>Should the reasoning process have causal structure?</li>
+<li>Should models be able to perform interventions?</li>
+</ul>
+<p><strong>&ldquo;Learning by Doing&rdquo;</strong></p>
+<ul>
+<li>Is interventional data the key to foundation models for physical intelligence?</li>
+</ul>
+<p><strong>Prioritizing Causal Methods</strong></p>
+<ul>
+<li>Under what circumstances should causal methods be prioritized or even required?</li>
+<li>Safety-critical applications (medical, autonomous vehicles, etc.)</li>
+<li>Physical systems (embodied AI, robotics)</li>
+<li>Socially sensitive or controversial applications (justice, social media, etc.)</li>
+</ul>
+<p><strong>The Role of Causality</strong></p>
+<ul>
+<li>Does causality emerge from data, or must we build it into our learning processes?</li>
+<li>Is there a trade-off between interpretability and performance?</li>
+<li>Is the causality &ldquo;killer app&rdquo; a myth, an actionable goal, or something already achieved (whether we realize it or not)?</li>
+</ul>
+<p><strong>Revisiting the Chinese Room</strong></p>
+<ul>
+<li>What does it mean for a model to &ldquo;understand&rdquo; something?</li>
+<li>What does it mean for us to &ldquo;understand&rdquo; a model?</li>
+<li>Are the sufficient and necessary conditions for &ldquo;understanding&rdquo; something?</li>
+<li>What results or behaviors would convince you that a model truly &ldquo;understands&rdquo; something?</li>
+</ul>
+<p><strong>Directions of Interest</strong> What direction are you most excited about? Why?</p>
+<ul>
+<li><strong>Causality for Large Models:</strong> Applying causality to augment and improve large models.</li>
+<li><strong>Causality with Large Models:</strong> Using large models to improve causal inference and discovery.</li>
+<li><strong>Causality of Large Models:</strong> Investigating the causal structure behind how large models work, making them more interpretable and controllable.</li>
+<li><strong>Causality in Large Models:</strong> Assessing the causal knowledge and reasoning abilities captured within large models.</li>
+<li>Are we missing other possible interactions?</li>
+</ul>
+<p><strong>LLM Steering and Alignment</strong></p>
+<ul>
+<li>Is alignment chiefly a matter of data curation?</li>
+<li>How should we think about open-source vs. proprietary efforts in this area?</li>
+<li>Should they specialize in different areas?</li>
+<li>How long before an open-source model tops the leaderboards, and why?</li>
+</ul>
+<p><strong>Overrated vs. Underrated</strong></p>
+<ul>
+<li>Causality: counterfactual methods/data/tasks, causal discovery, philosophy of causality, non-statistical formulations (pre-Pearl, logic-based), graphical modeling of real systems</li>
+<li>Large Models: multi-modal models, scaling up everything, transformers, sim-to-real, ChatGPT, Claude, Gemini, and other consumer-facing large models, explainable AI (post-hoc interpretability)</li>
+</ul>
+<p><strong>Community and Education</strong></p>
+<ul>
+<li>Do we need more trained causality experts or more large model experts?</li>
+<li>What advice would you give to students entering the field?</li>
+<li>Will we be having similar discussions in a year’s time, and what might have changed by then?</li>
+</ul>
+<h2 id="person-specific-questions">Person-specific questions</h2>
+<p><strong>Elias</strong></p>
+<ul>
+<li>How do we convince people that causality is not just in principle but also in practice important?</li>
+</ul>
+<p><strong>Atticus</strong></p>
+<ul>
+<li>How should we choose the right level of abstraction to best make sense of how large models work?</li>
+</ul>
+<p><strong>Chelsea</strong></p>
+<ul>
+<li>Throughout the day we heard several speakers emphasize the importance of interactive learning</li>
+<li>Does a foundation model for physical intelligence require interventional data? Or more causal methods? Is that sufficient?</li>
+</ul>
+<p><strong>Maria</strong></p>
+<ul>
+<li>How is causal knowledge in particular useful for cultural understanding and analysis?</li>
+<li>Humans learn not just by interacting with the world but also by sharing the causal knowledge they have with others, does this also hold for AI systems?</li>
+<li>What requirements must we satisfy to safely and reliably use large models in safety-critical applications? How can we operationalize these requirements?</li>
+</ul>
+<p><strong>Zhijing</strong></p>
+<ul>
+<li>How can we translate the theory and philosophy of causality to practical applications in NLP (and beyond)?</li>
+<li>How can we get students excited about causal ML and make it more accessible?</li>
+</ul>
+<p><strong>Giambattista</strong></p>
+<ul>
+<li>What should we prioritize: structure or function?</li>
+<li>Are our (current/popular) evaluation metrics sufficient? Why or why not?</li>
+</ul>
+<h2 id="directions">Directions</h2>
+<p><strong>in</strong></p>
+<ul>
+<li>Amit: systematically probing the causal knowledge in LLMs and formalizing natural language causal questions</li>
+<li>Victor Veitch: how causal knowledge is structured in the embeddings of large models to learn high-level semantic concepts and relationships</li>
+</ul>
+<p><strong>of</strong></p>
+<ul>
+<li>Victor Veitch: making sense of the latent structures in the embeddings of large models</li>
+</ul>
+<p><strong>for</strong></p>
+<ul>
+<li>Jane Wang: utilizing interventional and counterfactual information in video games to build foundation agents</li>
+<li>Elias: using a causal framing to identify and mitigate the systematic weaknesses of large models</li>
+</ul>
+<p><strong>with</strong></p>
+<ul>
+<li>Amit: systematically probing the causal knowledge in LLMs and formalizing natural language causal questions</li>
+<li>Elias: causal neural connection</li>
 </ul>
 
 
