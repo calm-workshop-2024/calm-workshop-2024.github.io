@@ -26,7 +26,7 @@ The workshop will take place in **East Hall C** of the Vancouver Convention Cent
     <tr>
         <td>08:45 - 09:00</td>
         <td>Opening remarks</td>
-        <td>Hybrid</td>
+        <td>In-person</td>
     </tr>
     <tr class="invited">
         <td>09:00 - 09:30</td>
