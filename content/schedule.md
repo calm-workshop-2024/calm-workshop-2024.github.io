@@ -70,7 +70,7 @@ The workshop will take place in **East Exhibition Hall C** of the Vancouver Conv
     </tr>
     <tr class="invited">
         <td>13:30 - 14:00</td>
-        <td>Victor Veitch - TBD</td>
+        <td>Victor Veitch - <small>Musings on the Linear Representation Hypothesis</small></td>
         <td>In-person</td>
     </tr>
     <tr class="contributed">
