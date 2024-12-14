@@ -47,7 +47,7 @@ The workshop will take place in **East Exhibition Hall C** of the Vancouver Conv
     </tr>
     <tr class="invited">
         <td>10:30 - 11:00</td>
-        <td>Elias Bareinboim - TBD</td>
+        <td>Elias Bareinboim - <small>Towards Causal Artificial Intelligence</small></td>
         <td>In-person</td>
     </tr>
     <tr class="contributed">
